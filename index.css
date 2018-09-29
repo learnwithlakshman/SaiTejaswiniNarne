@@ -1,10 +1,10 @@
 *{
-	background : "download.jpg";
+	background-image : "download.jpg";
 }
 
 .Navbar
 {
-	background-image: "download.jpg";
+	
 	background-color : green;
 	border-style: solid;
     border-width: medium;
