@@ -1,5 +1,10 @@
+*{
+	background : "download.jpg";
+}
+
 .Navbar
 {
+	background-image: "download.jpg";
 	background-color : green;
 	border-style: solid;
     border-width: medium;
@@ -108,8 +113,6 @@ ul li{
 	margin: 4px;
 	padding: 10px;
 	color: purple; }
-
-
 
 ol li{
 	background: rgb(129, 144, 150);
